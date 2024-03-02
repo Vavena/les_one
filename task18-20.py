@@ -11,16 +11,5 @@ for item in lst:
     else:
         continue
 
-print("Задание№20")
-x = float(input())
-sum = x
-j= 1
-for i in range(j+i):
-    a = x**i/i
-    sum =sum +(a)
-    if(a <= 10**-6):
-        break
-print(sum)
-
 
 
